@@ -1,0 +1,42 @@
+.design1 {
+    -fx-background-color: #ff0000;
+}
+.leftpane {
+    -fx-background-color: #333333;
+}
+.buttondesign {
+    -fx-background-color: #333333;
+}
+.buttondesign:hover {
+    -fx-background-color: #515151;
+}
+.border {
+    -fx-border-color: #333333;
+}
+.mf1 {
+    -fx-background-color: white;
+}
+.mf2 {
+    -fx-background-color: white;
+}
+.mf3 {
+    -fx-background-color: white;
+}
+.mf4 {
+    -fx-background-color: white;
+}
+.mf5 {
+    -fx-background-color: white;
+}
+.mfgenerate {
+    -fx-background-color: white;
+}
+.tablefontsize {
+    -fx-font-family: "System";
+    -fx-font-size:12px; 
+    -fx-border-color: #333333;
+    -fx-table-cell-border-color: #333333;
+}
+.tablefontsize .column-header-background .label{
+    -fx-font-size:9.5px; 
+}
